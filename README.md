@@ -21,7 +21,7 @@ The data used in this project is based on a simulated data.
 
 ## Tech Stack
 
-**Programming Languages:** Python
+**Programming Languages:** Python.
 
 **Methods Used:** Data pre-processing, Exploratory Data Analysis, Data Visualisation, Machine Learning.
 
